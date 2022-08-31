@@ -153,6 +153,9 @@ exports[`matches snapshot 1`] = `
         z
       </button>
     </p>
+    <button>
+      Reset Game
+    </button>
   </div>
 </div>
 `;
@@ -181,6 +184,9 @@ exports[`matches snapshot for losing 1`] = `
       You lose: 
       x
     </p>
+    <button>
+      Reset Game
+    </button>
   </div>
 </div>
 `;
